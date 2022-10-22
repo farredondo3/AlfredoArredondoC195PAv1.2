@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="528.0" prefWidth="716.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.CustomerController">
+    <children>
+        <TableView fx:id="customerTable" layoutX="30.0" layoutY="30.0" prefHeight="298.0" prefWidth="657.0">
+            <columns>
+                <TableColumn fx:id="customerID" prefWidth="38.0" text="ID" />
+                <TableColumn fx:id="customerName" prefWidth="130.0" text="Name" />
+                <TableColumn fx:id="customerAddress" prefWidth="146.0" text="Address" />
+                <TableColumn fx:id="customerZip" prefWidth="78.0" text="Postal Code" />
+                <TableColumn fx:id="customerPhone" prefWidth="86.0" text="Phone" />
+                <TableColumn fx:id="customerCountry" prefWidth="91.0" text="Country" />
+            <TableColumn fx:id="customerState" prefWidth="75.0" text="FLD" />
+            </columns>
+        </TableView>
+        <Label layoutX="36.0" layoutY="334.0" prefHeight="28.0" prefWidth="18.0" text="ID" />
+        <TextField fx:id="updateCustomerID" editable="false" layoutX="54.0" layoutY="337.0" prefHeight="25.0" prefWidth="71.0" />
+        <Label layoutX="137.0" layoutY="336.0" prefHeight="28.0" prefWidth="35.0" text="Name" />
+        <TextField fx:id="textBoxName" layoutX="177.0" layoutY="337.0" prefHeight="26.0" prefWidth="204.0" />
+        <Label layoutX="35.0" layoutY="368.0" prefHeight="28.0" prefWidth="43.0" text="Address" />
+        <TextField fx:id="textBoxAddress" layoutX="83.0" layoutY="369.0" prefHeight="26.0" prefWidth="495.0" />
+        <Label layoutX="35.0" layoutY="401.0" prefHeight="28.0" prefWidth="64.0" text="Postal Code" />
+        <TextField fx:id="textBoxZip" layoutX="102.0" layoutY="402.0" prefHeight="26.0" prefWidth="71.0" />
+        <Label layoutX="390.0" layoutY="336.0" prefHeight="28.0" prefWidth="41.0" text="Phone" />
+        <TextField fx:id="textBoxPhone" layoutX="431.0" layoutY="335.0" prefHeight="26.0" prefWidth="146.0" />
+        <ComboBox fx:id="country" layoutX="234.0" layoutY="403.0" onAction="#countryBox" prefWidth="150.0" />
+        <Label layoutX="184.0" layoutY="401.0" prefHeight="28.0" prefWidth="43.0" text="Country" />
+        <Label layoutX="391.0" layoutY="401.0" prefHeight="28.0" prefWidth="80.0" text="State/Province" />
+        <ComboBox fx:id="state" layoutX="470.0" layoutY="403.0" prefWidth="150.0" />
+        <Button layoutX="664.0" layoutY="455.0" mnemonicParsing="false" onAction="#clearBtn" text="Clear" />
+        <Button fx:id="customerRecordsEditCustomerButton" layoutX="146.0" layoutY="455.0" mnemonicParsing="false" onAction="#updateCustomerBtn" text="UpdateCustomer" />
+        <Button fx:id="customerRecordsCancel" layoutX="665.0" layoutY="496.0" mnemonicParsing="false" onAction="#cancelBtn" text="Back" />
+        <Button layoutX="270.0" layoutY="455.0" mnemonicParsing="false" onAction="#deleteCustomer" text="Delete Customer" />
+        <Button fx:id="customerRecordsAddCustomer" layoutX="36.0" layoutY="455.0" mnemonicParsing="false" onAction="#addCustomerBtn" text="Add Customer" />
+    </children>
+</AnchorPane>
