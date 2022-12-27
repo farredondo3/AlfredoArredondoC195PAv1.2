@@ -16,3 +16,10 @@ To run the program click the run program icon or run it in the main method of th
 The report that is included is the appointment by country. The page tracks the amount of appointments made by each country. 
 
 mysql-connector-java-8.0.25
+
+
+<p align="center">
+Launch the utility: <br/>
+<img src="https://i.imgur.com/x10Is7V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
