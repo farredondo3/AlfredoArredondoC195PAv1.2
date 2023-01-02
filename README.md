@@ -49,19 +49,19 @@ Update and Add a customer: <br/>
 <br />
 
 <p align="center">
-: <br/>
+Report by Contact: <br/>
 <img src="https://i.imgur.com/6gS6GIy.png" height="80%" width="80%"/>
 <br />
 <br />
     
 <p align="center">
-Launch the utility: <br/>
+Report by month: <br/>
 <img src="https://i.imgur.com/zFLTT3w.png" height="80%" width="80%"/>
 <br />
 <br />
     
 <p align="center">
-Launch the utility: <br/>
+Report by Country: <br/>
 <img src="https://i.imgur.com/KlNqpd2.png" height="80%" width="80%"/>
 <br />
 <br />
