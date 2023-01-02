@@ -31,7 +31,7 @@ Menu: <br/>
 <br />
 
 <p align="center">
-Appointments: <br/>
+Update Appointments: <br/>
 <img src="https://i.imgur.com/RXxYVQt.png" height="80%" width="80%"/>
 <br />
 <br />
@@ -43,7 +43,7 @@ Adding an appointment: <br/>
 <br />
 
 <p align="center">
-Updated an appointment: <br/>
+Update and Add a customer: <br/>
 <img src="https://i.imgur.com/hOk3t1B.png" height="80%" width="80%"/>
 <br />
 <br />
