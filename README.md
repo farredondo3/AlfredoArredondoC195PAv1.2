@@ -19,19 +19,19 @@ mysql-connector-java-8.0.25
 
 
 <p align="center">
-Launch the utility: <br/>
+Login: <br/>
 <img src="https://i.imgur.com/x10Is7V.png" height="30%" width="30%"/>
 <br />
 <br />
     
 <p align="center">
-Launch the utility: <br/>
+Menu: <br/>
 <img src="https://i.imgur.com/Oz1sQJq.png" height="30%" width="30%"/>
 <br />
 <br />
 
 <p align="center">
-Launch the utility: <br/>
+Appointments: <br/>
 <img src="https://i.imgur.com/RXxYVQt.png" height="80%" width="80%"/>
 <br />
 <br />
