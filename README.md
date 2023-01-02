@@ -20,48 +20,48 @@ mysql-connector-java-8.0.25
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/x10Is7V.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/x10Is7V.png" height="30%" width="30%"/>
 <br />
 <br />
     
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/Oz1sQJq.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Oz1sQJq.png" height="30%" width="30%"/>
 <br />
 <br />
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/RXxYVQt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RXxYVQt.png" height="80%" width="80%"/>
 <br />
 <br />
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/gm4LzOV.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gm4LzOV.png" height="40%" width="40%"/>
 <br />
 <br />
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/hOk3t1B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hOk3t1B.png" height="80%" width="80%"/>
 <br />
 <br />
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/6gS6GIy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6gS6GIy.png" height="80%" width="80%"/>
 <br />
 <br />
     
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/zFLTT3w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zFLTT3w.png" height="80%" width="80%"/>
 <br />
 <br />
     
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/KlNqpd2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KlNqpd2.png" height="80%" width="80%"/>
 <br />
 <br />
