@@ -37,19 +37,19 @@ Appointments: <br/>
 <br />
 
 <p align="center">
-Launch the utility: <br/>
+Adding an appointment: <br/>
 <img src="https://i.imgur.com/gm4LzOV.png" height="40%" width="40%"/>
 <br />
 <br />
 
 <p align="center">
-Launch the utility: <br/>
+Updated an appointment: <br/>
 <img src="https://i.imgur.com/hOk3t1B.png" height="80%" width="80%"/>
 <br />
 <br />
 
 <p align="center">
-Launch the utility: <br/>
+: <br/>
 <img src="https://i.imgur.com/6gS6GIy.png" height="80%" width="80%"/>
 <br />
 <br />
